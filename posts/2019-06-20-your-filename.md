@@ -2,6 +2,7 @@
 published: true
 title: 야옹2
 layout: default
+permalink: /nya2/
 ---
 으ㅏ아아
 
