@@ -1,6 +1,6 @@
 ---
 layout: default
-title: You're up and running!
+title: 야옹
 published: true
 ---
 야호오오오옹
