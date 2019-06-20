@@ -1,5 +1,6 @@
 ---
 published: true
+title: 야옹2
 layout: default
 ---
 으ㅏ아아
