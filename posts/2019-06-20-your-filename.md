@@ -1,6 +1,6 @@
 ---
 published: false
-layout: page
+layout: default
 permalink: /404.html
 ---
 ## 404
