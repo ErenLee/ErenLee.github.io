@@ -1,7 +1,6 @@
 ---
 published: true
 layout: default
-permalink: /404.html
 ---
 으ㅏ아아
 
